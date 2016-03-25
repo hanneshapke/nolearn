@@ -1,5 +1,4 @@
 joblib
-matplotlib
 scikit-learn
 tabulate
 -e git+https://github.com/Lasagne/Lasagne.git@8f4f9b2#egg=Lasagne==0.2.git
